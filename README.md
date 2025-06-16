@@ -1,16 +1,18 @@
 # Asimov 0 
-![Twitter post - 1](https://github.com/user-attachments/assets/14993297-130b-444a-8d7f-a7f0b98c5265)
+![Intro](https://github.com/user-attachments/assets/14993297-130b-444a-8d7f-a7f0b98c5265)
 This is a structure to simplify the training and execution of dexturous tasks using the [SO-ARM101](https://github.com/TheRobotStudio/SO-ARM100) and [lerobot](https://github.com/huggingface/lerobot/issues) library. 
 
 ## Usa cases
 Used in the Huggingface hackathon (June 2025), on [so101-tx](https://github.com/carlosdp/so101-tx)
-![yt1z net - 351 - so-101-tx (720p) (1)](https://github.com/user-attachments/assets/5461d99c-9283-47dc-a9f7-6bbf86222614)
+![Demo](https://github.com/user-attachments/assets/5461d99c-9283-47dc-a9f7-6bbf86222614)
 
 ## Parts
-![Twitter post - 2 (1)](https://github.com/user-attachments/assets/1582573f-1f0b-4a0b-add5-3cfa00b8c62f)
+![Parts](https://github.com/user-attachments/assets/1582573f-1f0b-4a0b-add5-3cfa00b8c62f)
 
 ## Bill of materials
 `Prices from June 16, 2025`
+A total cost of `$793`
+
 ### Aluminium Structure
 
 | Item                    | Link                                                                 | Price   |
@@ -26,8 +28,15 @@ Used in the Huggingface hackathon (June 2025), on [so101-tx](https://github.com/
 
 **Total:** `$105.92`
 
+### 3D Printed Parts
+- Asimov Shoulders
+These were designed to replace the original Base for the SO-ARM101. They fit perfectly in place and have screws mounts for 2 screws.
+<img width="565" alt="image" src="https://github.com/user-attachments/assets/a845d141-544e-43cf-92be-ad637badaf8e" />
+
+- Camera 
+
+
 ### Electronics
-### Components
 
 | Item                       | Link                                                            | Price     | Quantity
 |----------------------------|-----------------------------------------------------------------|-----------| --------|
@@ -40,3 +49,9 @@ Used in the Huggingface hackathon (June 2025), on [so101-tx](https://github.com/
 | Cable Sleeve Cover*        | [Amazon](https://www.amazon.com/dp/B0CGVDKB9P)                  | $13.99    |  1    |
 
 **Total:** `$686.66`
+
+## Assembly
+![Assembly](https://github.com/user-attachments/assets/b793c4f4-4f84-4ef5-a802-8c9d5f2c8b91)
+1. Using the 4 `L Brackets` combine 2 of `200mm Aluminium Extrusions` with 1 `400mm Aluminium Extrusion` (vertical). 
+2. Using the custom 
+
