@@ -6,8 +6,15 @@ This is a structure to simplify the training and execution of dexturous tasks us
 Used in the Huggingface hackathon (June 2025), on [so101-tx](https://github.com/carlosdp/so101-tx)
 ![Demo](https://github.com/user-attachments/assets/5461d99c-9283-47dc-a9f7-6bbf86222614)
 
-## Parts
+## Parts & Assembly 
 ![Parts](https://github.com/user-attachments/assets/1582573f-1f0b-4a0b-add5-3cfa00b8c62f)
+
+### Assembly
+
+![Assembly](https://github.com/user-attachments/assets/b793c4f4-4f84-4ef5-a802-8c9d5f2c8b91)
+1. Using the 4 `L Brackets` combine 2 of `200mm Aluminium Extrusions` with 1 `400mm Aluminium Extrusion` (vertical). 
+2. Connect the `Asimov Shoulders` to another `400mm Aluminium Extrusion` using 2 `M6 screws` per arm (4 total).
+3. Connect the top bar with the core, and install the top camera
 
 ## Bill of materials
 `Prices from June 16, 2025`
@@ -29,11 +36,23 @@ A total cost of `$793`
 **Total:** `$105.92`
 
 ### 3D Printed Parts
-- Asimov Shoulders
-These were designed to replace the original Base for the SO-ARM101. They fit perfectly in place and have screws mounts for 2 screws.
-<img width="565" alt="image" src="https://github.com/user-attachments/assets/a845d141-544e-43cf-92be-ad637badaf8e" />
 
-- Camera 
+- **Asimov Shoulders**
+These were designed to replace the original Base for the SO-ARM101. They fit perfectly in place and have screws mounts for 2 screws.
+
+| Material | Filament Usage | Print time |
+|----------|-------|-----|
+| PLA      | 75g   | 2h 30min |
+
+<img width="1181" alt="image" src="https://github.com/user-attachments/assets/5b6393b2-9022-4779-9752-210d2f47f4bd" />
+
+
+- **Camera Mount**
+<img width="637" alt="image" src="https://github.com/user-attachments/assets/d00d4c4e-787b-4071-aa5b-f50655fef699" />
+
+| Material | Filament Usage | Print time |
+|----------|-------|-----|
+| PLA      | 15g   | 50 min |
 
 
 ### Electronics
@@ -50,8 +69,5 @@ These were designed to replace the original Base for the SO-ARM101. They fit per
 
 **Total:** `$686.66`
 
-## Assembly
-![Assembly](https://github.com/user-attachments/assets/b793c4f4-4f84-4ef5-a802-8c9d5f2c8b91)
-1. Using the 4 `L Brackets` combine 2 of `200mm Aluminium Extrusions` with 1 `400mm Aluminium Extrusion` (vertical). 
-2. Using the custom 
+
 
